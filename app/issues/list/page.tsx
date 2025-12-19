@@ -72,3 +72,6 @@ export const dynamic = "force-dynamic";
 // 'auto' | 'force-dynamic' | 'error' | 'force-static'
 
 export default IssuesPage;
+
+
+//change db to pg
